@@ -132,5 +132,5 @@ This project is released for educational and research purposes only.
 
 👤 Author
 
-Pranav Mishra
+Pranav Mishra |
 NLP Research-oriented Project | IIT Patna
